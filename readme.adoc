@@ -41,3 +41,7 @@ NOTE: You will incur charges as you go through these workshop guides as it will 
 === Participation
 
 You can share this workshop via https://amzn.to/k8s-on-aws. We encourage participation; if you find anything, please submit an issue. However, if you want to help raise the bar, **submit a PR**!
+
+
+image::button-start-standard.png[https://lawyeranalytix.com]
+
